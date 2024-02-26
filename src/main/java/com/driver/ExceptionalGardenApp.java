@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ExceptionalGardenApp {
-	public static void main(String[] args) {
+    public static void main(String[] args) {
         Garden garden = new Garden();
         Scanner scanner = new Scanner(System.in);
 

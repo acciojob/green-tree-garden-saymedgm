@@ -1,14 +1,13 @@
 package com.driver;
 
 public class Tree {
-	 private String name;
+	private String name;
 
-	    public Tree(String name) {
-	        // your code goes here
-	    }
+	public Tree(String name) {
+		this.name = name;
+	}
 
-	    public String getName() {
-	    	// your code goes here
-	        return name;
-	    }
+	public String getName() {
+		return name;
+	}
 }
